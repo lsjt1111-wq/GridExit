@@ -1,0 +1,7 @@
+{
+    "name": "GridTutorial.Editor",
+    "rootNamespace": "GridTutorial.Editor",
+    "references": ["GridTutorial.Runtime"],
+    "includePlatforms": ["Editor"],
+    "autoReferenced": true
+}

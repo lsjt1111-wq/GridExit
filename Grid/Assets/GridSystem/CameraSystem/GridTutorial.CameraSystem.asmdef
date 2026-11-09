@@ -1,0 +1,6 @@
+{
+  "name": "GridTutorial.CameraSystem",
+  "rootNamespace": "GridTutorial.Cameras",
+  "references": ["GridTutorial.Runtime", "Unity.InputSystem", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Runtime", "Unity.TextMeshPro", "UnityEngine.UI"],
+  "autoReferenced": true
+}

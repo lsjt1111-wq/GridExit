@@ -1,0 +1,6 @@
+{
+    "name": "ScreenTransition.API",
+    "rootNamespace": "ScreenTransitions",
+    "references": [],
+    "autoReferenced": true
+}
